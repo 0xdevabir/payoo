@@ -101,3 +101,13 @@ export default function Home() {
     </div>
   );
 }
+
+
+
+// echo "# payoo" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.com:0xdevabir/payoo.git
+// git push -u origin main
